@@ -4,7 +4,7 @@
         y por último uno que imprima un mensaje en caso que deba pagar
         impuestos (si el sueldo supera a los $3000).*/
 
-package Ejercicios;
+package Desemp;
 
 import java.util.Scanner;
 
