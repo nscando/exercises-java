@@ -10,31 +10,31 @@ public class Desemp2 {
         teclado = new Scanner(System.in);
 
         System.out.println("Ingrese valor de A: ");
-        a= teclado.nextInt();
+        a = teclado.nextInt();
 
         System.out.println("Ingrese valor de B: ");
-        b= teclado.nextInt();
+        b = teclado.nextInt();
 
     }
 
     public void suma() {
-        total = a+b;
-        System.out.println("La suma  A + B es: "+total);
+        total = a + b;
+        System.out.println("La suma  A + B es: " + total);
     }
 
     public void resta() {
-        total = a-b;
-        System.out.println("La resta  A - B es: "+total);
+        total = a - b;
+        System.out.println("La resta  A - B es: " + total);
     }
 
     public void division() {
-        total = a/b;
-        System.out.println("La division  A / B es: "+total);
+        total = a / b;
+        System.out.println("La division  A / B es: " + total);
     }
 
     public void multiplicacion() {
-        total = a*b;
-        System.out.println("La multiplicacion  A * B es: "+total);
+        total = a * b;
+        System.out.println("La multiplicacion  A * B es: " + total);
     }
 
     public static void main(String[] args) {
