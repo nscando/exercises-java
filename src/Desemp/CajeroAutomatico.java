@@ -42,6 +42,7 @@ public class CajeroAutomatico extends JFrame {
 	private int dinero = 3000;
 	private int total;
 
+	
 	/**
 	 * Launch the application.
 	 */
